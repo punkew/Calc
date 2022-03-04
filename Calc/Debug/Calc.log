@@ -1,0 +1,7 @@
+﻿  Calculator.cpp
+c:\yandexdisk\5 семестр\ооп\calc\calc\calc\calc\calculator.cpp(30): warning C4018: <: несоответствие типов со знаком и без знака
+c:\yandexdisk\5 семестр\ооп\calc\calc\calc\calc\calculator.cpp(364): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  main.cpp
+  Calc.vcxproj -> C:\YandexDisk\5 семестр\ООП\Calc\Calc\Calc\Debug\Calc.exe
